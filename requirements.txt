@@ -1,0 +1,27 @@
+# LangChain/LangGraph
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+
+# 记忆和搜索
+sentence-transformers>=2.2.0
+
+# 配置
+pydantic>=2.0.0
+pyyaml>=6.0
+
+# 工具
+rich>=13.0.0
+python-dotenv>=1.0.0
+
+# HTTP
+httpx>=0.27.0
+
+# 网络搜索
+duckduckgo-search>=4.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# 可选：Tavily 搜索（需要 API key）
+# tavily-python>=0.5.0
